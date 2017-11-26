@@ -65,6 +65,13 @@
 			<artifactId>spring-webmvc</artifactId>
 			<version>4.3.7.RELEASE</version>
 		</dependency>
+		<!-- https://mvnrepository.com/artifact/de.alpharogroup/data-api -->
+		<dependency>
+		    <groupId>de.alpharogroup</groupId>
+		    <artifactId>data-api</artifactId>
+		    <version>3.28.0</version>
+		</dependency>
+
 	</dependencies>
 	<build>
 		<finalName>QuartzDemo</finalName>
