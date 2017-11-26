@@ -10,7 +10,8 @@
 
 
 
-<!-- 	<bean id="jobDetail"
+<!-- 	
+<bean id="jobDetail"
 		class="org.springframework.scheduling.quartz.JobDetailFactoryBean">
 		<property name="jobClass" value="info.dolemi.test.HelloJOb">
 		</property>
